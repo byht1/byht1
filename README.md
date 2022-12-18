@@ -78,6 +78,20 @@
 <br/>
 <hr/>
 
+<h2 style="color: #44AEFB">📊 Statistics</h2>
+
+<div class="stats" align="center">
+<!-- 
+![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=byht1&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) -->
+
+![GitHub Streak](https://streak-stats.demolab.com?user=byht1&count_private=true&theme=algolia&border_radius=20)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byht1&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+
+</div>
+
+<hr/>
+
 <h2 style="color: #44AEFB">My Contacts</h2>
 
 <div class="footer" align="center" style="margin:15px;">
@@ -90,20 +104,6 @@
     <a href="mailto:vitalikbyht1@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
-</div>
-
-<hr/>
-
-<h2 style="color: #44AEFB">📊 Statistics</h2>
-
-<div class="stats" align="center">
-<!-- 
-![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=byht1&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) -->
-
-![GitHub Streak](https://streak-stats.demolab.com?user=byht1&count_private=true&theme=algolia&border_radius=20)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byht1&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-
 </div>
 
 <!-- [My Resume](https://drive.google.com/file/d/1bsnWsFCRRnz0-hOEZ3rSZ95rOBsELw5q/view?usp=share_link) -->
