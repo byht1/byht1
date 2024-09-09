@@ -40,8 +40,7 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFA000?style=for-the-badge&logo=firebase&logoColor=white)
 
-<br/>
-<br/>
+<!-- 
 <hr/>
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
@@ -53,8 +52,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=byht1&count_private=true&theme=algolia&border_radius=20)
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byht1&layout=compact&show_icons=true&theme=algolia&border_radius=20)](https://github.com/anuraghazra/github-readme-stats) -->
-
-</div>
+<!-- 
+</div> -->
 
 <hr/>
 
