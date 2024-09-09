@@ -57,18 +57,9 @@
 
 <hr/>
 
-<h2 style="color: #44AEFB">My Contacts</h2>
+**My Contacts:**
 
-<div class="footer" align="center" style="margin:15px;">
-    <a href="https://drive.google.com/file/d/1bsnWsFCRRnz0-hOEZ3rSZ95rOBsELw5q/view?usp=share_link" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531458-b5dfeb1b-bad5-4dfa-909a-2e402262db9a.svg" alt="resume" width="40px"/>
-    </a>
-    <a href="https://www.linkedin.com/in/vitalii-dykhal-45610a246/" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40px"/>
-    </a>
-    <a href="mailto:vitalikbyht1@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
-    </a>
-</div>
-
+[![Apollo](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://drive.google.com/file/d/1bsnWsFCRRnz0-hOEZ3rSZ95rOBsELw5q/view?usp=share_link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitalii-dykhal-45610a246/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitalikbyht1@gmail.com)
 <!-- [My Resume](https://drive.google.com/file/d/1bsnWsFCRRnz0-hOEZ3rSZ95rOBsELw5q/view?usp=share_link) -->
