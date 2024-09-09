@@ -9,7 +9,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![GoLang](https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white)
+![GoLang](https://img.shields.io/badge/golang-00ADD8?&style=for-the-badge&logo=nextdotjs&logo=go&logoColor=white)
 
 **Frontend Frameworks and Libraries:**
 
@@ -59,7 +59,12 @@
 
 **My Contacts:**
 
+<div align="center">
+
 [![Apollo](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://drive.google.com/file/d/1bsnWsFCRRnz0-hOEZ3rSZ95rOBsELw5q/view?usp=share_link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitalii-dykhal-45610a246/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitalikbyht1@gmail.com)
+
+</div>
+
 <!-- [My Resume](https://drive.google.com/file/d/1bsnWsFCRRnz0-hOEZ3rSZ95rOBsELw5q/view?usp=share_link) -->
