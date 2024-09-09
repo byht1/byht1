@@ -1,9 +1,3 @@
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
-<div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
-</div>
-<br>
-
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
@@ -15,22 +9,18 @@
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-ff69b4?style=for-the-badge&logo=sass&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f14e32?style=for-the-badge&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/npm-%2320232a.svg?style=for-the-badge&logo=npm&logoColor=white)
+![GoLang](https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white)
 
 **Frontend Frameworks and Libraries:**
 
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-purple?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React--Router-grey?style=for-the-badge&logo=react-router&logoColor=white)
 ![react-hook-form](https://img.shields.io/badge/react--hook--form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)
 ![styled components](https://img.shields.io/badge/styled--components-0066B8?style=for-the-badge&logo=styled-components&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-%23319795.svg?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React Intl](https://img.shields.io/badge/React_Intl-%232B99D6.svg?style=for-the-badge)
 
 **Backend Technologies:**
@@ -38,8 +28,16 @@
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-lightgrey?style=for-the-badge&logo=express&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/Nest.js-red?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Other:**
+
+![Webpack](https://img.shields.io/badge/Webpack-2b3a42?style=for-the-badge&logo=webpack&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo-%23333.svg?style=for-the-badge&logo=apollo-graphql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFA000?style=for-the-badge&logo=firebase&logoColor=white)
 
 <br/>
 <br/>
