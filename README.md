@@ -49,6 +49,7 @@
 <!-- 
 ![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=byht1&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) -->
 
+<!-- 
 ![GitHub Streak](https://streak-stats.demolab.com?user=byht1&count_private=true&theme=algolia&border_radius=20)
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byht1&layout=compact&show_icons=true&theme=algolia&border_radius=20)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -59,12 +60,8 @@
 
 **My Contacts:**
 
-<div align="center">
-
 [![Apollo](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://drive.google.com/file/d/1bsnWsFCRRnz0-hOEZ3rSZ95rOBsELw5q/view?usp=share_link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitalii-dykhal-45610a246/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitalikbyht1@gmail.com)
-
-</div>
 
 <!-- [My Resume](https://drive.google.com/file/d/1bsnWsFCRRnz0-hOEZ3rSZ95rOBsELw5q/view?usp=share_link) -->
