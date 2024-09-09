@@ -35,6 +35,7 @@
 **Other:**
 
 ![Webpack](https://img.shields.io/badge/Webpack-2b3a42?style=for-the-badge&logo=webpack&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
 ![Apollo](https://img.shields.io/badge/Apollo-%23333.svg?style=for-the-badge&logo=apollo-graphql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFA000?style=for-the-badge&logo=firebase&logoColor=white)
