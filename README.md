@@ -1,7 +1,7 @@
-<h1 align="center">Привіт, я Віталій Дихаль 👋</h1>
+<h1 align="center">Hi there, I'm Vitalii 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer</b> · 🇺🇦 Україна · UTC +03:00
+  <b>Full-Stack Developer</b> · 🇺🇦 Ukraine · UTC +03:00
 </p>
 
 <p align="center">
@@ -18,18 +18,18 @@
 
 ---
 
-### 🧑‍💻 Про мене
+### 🧑‍💻 About me
 
-- 🔭 Працюю над full-stack проєктами на **TypeScript** та **Node.js**
-- 🦀 Вивчаю системне програмування на **Rust** та **GoLang** (CodeCrafters challenges)
-- 🌱 Цікавлюсь архітектурою застосунків, продуктивністю та чистим кодом
-- 💬 Питай мене про **React**, **Next.js**, **Nest.js** та **PostgreSQL**
+- 🔭 Building full-stack projects with **TypeScript** and **Node.js**
+- 🦀 Exploring systems programming in **Rust** and **GoLang** (CodeCrafters challenges)
+- 🌱 Interested in app architecture, performance and clean code
+- 💬 Ask me about **React**, **Next.js**, **Nest.js** and **PostgreSQL**
 
 ---
 
-### 🛠️ Технології
+### 🛠️ Tech Stack
 
-**Мови**
+**Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -58,7 +58,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-**Інструменти**
+**Tools**
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
@@ -67,19 +67,19 @@
 
 ---
 
-### 📌 Обрані проєкти
+### 📌 Featured Projects
 
-| Проєкт | Опис | Стек |
+| Project | Description | Stack |
 | --- | --- | --- |
-| [node-team-project](https://github.com/byht1/node-team-project) | Server-side для React-застосунку «Petly» | TypeScript |
-| [game-of-life](https://github.com/byht1/game-of-life) | Гра «Життя» Конвея | Rust |
-| [codecrafters-git-go](https://github.com/byht1/codecrafters-git-go) | Реалізація Git з нуля | Go |
-| [codecrafters-shell-go](https://github.com/byht1/codecrafters-shell-go) | Власний POSIX shell | Go |
-| [codecrafters-dns-server-go](https://github.com/byht1/codecrafters-dns-server-go) | DNS-сервер з нуля | Go |
+| [node-team-project](https://github.com/byht1/node-team-project) | Server-side for the «Petly» React app | TypeScript |
+| [game-of-life](https://github.com/byht1/game-of-life) | Conway's Game of Life | Rust |
+| [codecrafters-git-go](https://github.com/byht1/codecrafters-git-go) | Git implementation from scratch | Go |
+| [codecrafters-shell-go](https://github.com/byht1/codecrafters-shell-go) | A custom POSIX shell | Go |
+| [codecrafters-dns-server-go](https://github.com/byht1/codecrafters-dns-server-go) | DNS server from scratch | Go |
 
 ---
 
-### 📊 GitHub статистика
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=byht1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
@@ -93,5 +93,5 @@
 ---
 
 <p align="center">
-  <i>«Код має бути чистим, а застосунок — швидким.» 🚀</i>
+  <i>"Code should be clean, and the app should be fast." 🚀</i>
 </p>
