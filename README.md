@@ -1,67 +1,97 @@
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
-## Languages and Tools:
+<h1 align="center">Привіт, я Віталій Дихаль 👋</h1>
 
-**Core:**
+<p align="center">
+  <b>Full-Stack Developer</b> · 🇺🇦 Україна · UTC +03:00
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![GoLang](https://img.shields.io/badge/golang-00ADD8?&style=for-the-badge&logo=nextdotjs&logo=go&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/vitalii-dykhal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vitalikbyht1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/byht1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-**Frontend Frameworks and Libraries:**
+---
 
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-purple?style=for-the-badge&logo=redux&logoColor=white)
-![react-hook-form](https://img.shields.io/badge/react--hook--form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)
-![styled components](https://img.shields.io/badge/styled--components-0066B8?style=for-the-badge&logo=styled-components&logoColor=white)
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-%23319795.svg?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-![React Intl](https://img.shields.io/badge/React_Intl-%232B99D6.svg?style=for-the-badge)
+### 🧑‍💻 Про мене
 
-**Backend Technologies:**
+- 🔭 Працюю над full-stack проєктами на **TypeScript** та **Node.js**
+- 🦀 Вивчаю системне програмування на **Rust** та **GoLang** (CodeCrafters challenges)
+- 🌱 Цікавлюсь архітектурою застосунків, продуктивністю та чистим кодом
+- 💬 Питай мене про **React**, **Next.js**, **Nest.js** та **PostgreSQL**
 
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-lightgrey?style=for-the-badge&logo=express&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-red?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+---
 
-**Other:**
+### 🛠️ Технології
 
-![Webpack](https://img.shields.io/badge/Webpack-2b3a42?style=for-the-badge&logo=webpack&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo-%23333.svg?style=for-the-badge&logo=apollo-graphql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+**Мови**
 
-<!-- 
-<hr/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+**Frontend**
 
-<div class="stats" align="center">
-<!-- 
-![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=byht1&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) -->
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
-<!-- 
-![GitHub Streak](https://streak-stats.demolab.com?user=byht1&count_private=true&theme=algolia&border_radius=20)
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byht1&layout=compact&show_icons=true&theme=algolia&border_radius=20)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- 
-</div> -->
+**Backend**
 
-<hr/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-**My Contacts:**
+**Інструменти**
 
-[![Apollo](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://drive.google.com/file/d/1bsnWsFCRRnz0-hOEZ3rSZ95rOBsELw5q/view?usp=share_link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitalii-dykhal-45610a246/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitalikbyht1@gmail.com)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-<!-- [My Resume](https://drive.google.com/file/d/1bsnWsFCRRnz0-hOEZ3rSZ95rOBsELw5q/view?usp=share_link) -->
+---
+
+### 📌 Обрані проєкти
+
+| Проєкт | Опис | Стек |
+| --- | --- | --- |
+| [node-team-project](https://github.com/byht1/node-team-project) | Server-side для React-застосунку «Petly» | TypeScript |
+| [game-of-life](https://github.com/byht1/game-of-life) | Гра «Життя» Конвея | Rust |
+| [codecrafters-git-go](https://github.com/byht1/codecrafters-git-go) | Реалізація Git з нуля | Go |
+| [codecrafters-shell-go](https://github.com/byht1/codecrafters-shell-go) | Власний POSIX shell | Go |
+| [codecrafters-dns-server-go](https://github.com/byht1/codecrafters-dns-server-go) | DNS-сервер з нуля | Go |
+
+---
+
+### 📊 GitHub статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=byht1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byht1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byht1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <i>«Код має бути чистим, а застосунок — швидким.» 🚀</i>
+</p>
